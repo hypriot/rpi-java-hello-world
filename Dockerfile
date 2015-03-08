@@ -2,5 +2,5 @@ FROM hypriot/rpi-java
 MAINTAINER Mathias Renner <mathias@hypriot.com>
 
 WORKDIR /src
-ADD HelloWorld.class ./
+ADD compiled/HelloWorld.class ./
 
