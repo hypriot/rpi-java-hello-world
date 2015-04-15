@@ -2,7 +2,6 @@
 
 # Get environment variable which defines the name of the app
 APP=$app
-echo $APP
 
 # Go to java source directory
 cd java
