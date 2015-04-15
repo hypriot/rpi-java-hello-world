@@ -5,7 +5,7 @@ APP=$app
 
 # Compile the app
 echo "Compiling java app..."
-javac $APP.java
+javac /src/java/$APP.java
 echo "Finished."
 
 # Run the app
