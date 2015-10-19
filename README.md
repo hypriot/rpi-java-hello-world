@@ -1,6 +1,6 @@
-# A Hello World in Java on the Raspberry Pi 
+# rpi-java-hello-world
 
-More to come soon...
+A Hello World in Java on the Raspberry Pi.
 
 
 ### License
